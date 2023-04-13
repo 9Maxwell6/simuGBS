@@ -1,0 +1,92 @@
+[
+{
+  "directory": "/home/maxwell/workSpace/UoE/year4/UG4_project/simuGBS/build/src",
+  "command": "/usr/bin/g++   -g -std=gnu++11 -o CMakeFiles/src.dir/DirectProb.cpp.o -c /home/maxwell/workSpace/UoE/year4/UG4_project/simuGBS/src/DirectProb.cpp",
+  "file": "/home/maxwell/workSpace/UoE/year4/UG4_project/simuGBS/src/DirectProb.cpp"
+},
+{
+  "directory": "/home/maxwell/workSpace/UoE/year4/UG4_project/simuGBS/build/src",
+  "command": "/usr/bin/g++   -g -std=gnu++11 -o CMakeFiles/src.dir/FT_marginalProb.cpp.o -c /home/maxwell/workSpace/UoE/year4/UG4_project/simuGBS/src/FT_marginalProb.cpp",
+  "file": "/home/maxwell/workSpace/UoE/year4/UG4_project/simuGBS/src/FT_marginalProb.cpp"
+},
+{
+  "directory": "/home/maxwell/workSpace/UoE/year4/UG4_project/simuGBS/build/src",
+  "command": "/usr/bin/g++   -g -std=gnu++11 -o CMakeFiles/src.dir/FT_probCalculator.cpp.o -c /home/maxwell/workSpace/UoE/year4/UG4_project/simuGBS/src/FT_probCalculator.cpp",
+  "file": "/home/maxwell/workSpace/UoE/year4/UG4_project/simuGBS/src/FT_probCalculator.cpp"
+},
+{
+  "directory": "/home/maxwell/workSpace/UoE/year4/UG4_project/simuGBS/build/src",
+  "command": "/usr/bin/g++   -g -std=gnu++11 -o CMakeFiles/src.dir/covMatrix_reader.cpp.o -c /home/maxwell/workSpace/UoE/year4/UG4_project/simuGBS/src/covMatrix_reader.cpp",
+  "file": "/home/maxwell/workSpace/UoE/year4/UG4_project/simuGBS/src/covMatrix_reader.cpp"
+},
+{
+  "directory": "/home/maxwell/workSpace/UoE/year4/UG4_project/simuGBS/build/src",
+  "command": "/usr/bin/g++   -g -std=gnu++11 -o CMakeFiles/src.dir/marginalProb.cpp.o -c /home/maxwell/workSpace/UoE/year4/UG4_project/simuGBS/src/marginalProb.cpp",
+  "file": "/home/maxwell/workSpace/UoE/year4/UG4_project/simuGBS/src/marginalProb.cpp"
+},
+{
+  "directory": "/home/maxwell/workSpace/UoE/year4/UG4_project/simuGBS/build/src",
+  "command": "/usr/bin/g++   -g -std=gnu++11 -o CMakeFiles/src.dir/probCalculator.cpp.o -c /home/maxwell/workSpace/UoE/year4/UG4_project/simuGBS/src/probCalculator.cpp",
+  "file": "/home/maxwell/workSpace/UoE/year4/UG4_project/simuGBS/src/probCalculator.cpp"
+},
+{
+  "directory": "/home/maxwell/workSpace/UoE/year4/UG4_project/simuGBS/build/src",
+  "command": "/usr/bin/g++   -g -std=gnu++11 -o CMakeFiles/src.dir/simuGBS.cpp.o -c /home/maxwell/workSpace/UoE/year4/UG4_project/simuGBS/src/simuGBS.cpp",
+  "file": "/home/maxwell/workSpace/UoE/year4/UG4_project/simuGBS/src/simuGBS.cpp"
+},
+{
+  "directory": "/home/maxwell/workSpace/UoE/year4/UG4_project/simuGBS/build/src",
+  "command": "/usr/bin/g++   -g -std=gnu++11 -o CMakeFiles/src.dir/utils/stringUtils.cpp.o -c /home/maxwell/workSpace/UoE/year4/UG4_project/simuGBS/src/utils/stringUtils.cpp",
+  "file": "/home/maxwell/workSpace/UoE/year4/UG4_project/simuGBS/src/utils/stringUtils.cpp"
+},
+{
+  "directory": "/home/maxwell/workSpace/UoE/year4/UG4_project/simuGBS/build/src",
+  "command": "/usr/bin/g++   -g -std=gnu++11 -o CMakeFiles/src.dir/utils/vectorUtils.cpp.o -c /home/maxwell/workSpace/UoE/year4/UG4_project/simuGBS/src/utils/vectorUtils.cpp",
+  "file": "/home/maxwell/workSpace/UoE/year4/UG4_project/simuGBS/src/utils/vectorUtils.cpp"
+},
+{
+  "directory": "/home/maxwell/workSpace/UoE/year4/UG4_project/simuGBS/build/src",
+  "command": "/usr/bin/g++   -g -fopenmp -std=gnu++11 -o CMakeFiles/simuGBS.dir/DirectProb.cpp.o -c /home/maxwell/workSpace/UoE/year4/UG4_project/simuGBS/src/DirectProb.cpp",
+  "file": "/home/maxwell/workSpace/UoE/year4/UG4_project/simuGBS/src/DirectProb.cpp"
+},
+{
+  "directory": "/home/maxwell/workSpace/UoE/year4/UG4_project/simuGBS/build/src",
+  "command": "/usr/bin/g++   -g -fopenmp -std=gnu++11 -o CMakeFiles/simuGBS.dir/FT_marginalProb.cpp.o -c /home/maxwell/workSpace/UoE/year4/UG4_project/simuGBS/src/FT_marginalProb.cpp",
+  "file": "/home/maxwell/workSpace/UoE/year4/UG4_project/simuGBS/src/FT_marginalProb.cpp"
+},
+{
+  "directory": "/home/maxwell/workSpace/UoE/year4/UG4_project/simuGBS/build/src",
+  "command": "/usr/bin/g++   -g -fopenmp -std=gnu++11 -o CMakeFiles/simuGBS.dir/FT_probCalculator.cpp.o -c /home/maxwell/workSpace/UoE/year4/UG4_project/simuGBS/src/FT_probCalculator.cpp",
+  "file": "/home/maxwell/workSpace/UoE/year4/UG4_project/simuGBS/src/FT_probCalculator.cpp"
+},
+{
+  "directory": "/home/maxwell/workSpace/UoE/year4/UG4_project/simuGBS/build/src",
+  "command": "/usr/bin/g++   -g -fopenmp -std=gnu++11 -o CMakeFiles/simuGBS.dir/covMatrix_reader.cpp.o -c /home/maxwell/workSpace/UoE/year4/UG4_project/simuGBS/src/covMatrix_reader.cpp",
+  "file": "/home/maxwell/workSpace/UoE/year4/UG4_project/simuGBS/src/covMatrix_reader.cpp"
+},
+{
+  "directory": "/home/maxwell/workSpace/UoE/year4/UG4_project/simuGBS/build/src",
+  "command": "/usr/bin/g++   -g -fopenmp -std=gnu++11 -o CMakeFiles/simuGBS.dir/marginalProb.cpp.o -c /home/maxwell/workSpace/UoE/year4/UG4_project/simuGBS/src/marginalProb.cpp",
+  "file": "/home/maxwell/workSpace/UoE/year4/UG4_project/simuGBS/src/marginalProb.cpp"
+},
+{
+  "directory": "/home/maxwell/workSpace/UoE/year4/UG4_project/simuGBS/build/src",
+  "command": "/usr/bin/g++   -g -fopenmp -std=gnu++11 -o CMakeFiles/simuGBS.dir/probCalculator.cpp.o -c /home/maxwell/workSpace/UoE/year4/UG4_project/simuGBS/src/probCalculator.cpp",
+  "file": "/home/maxwell/workSpace/UoE/year4/UG4_project/simuGBS/src/probCalculator.cpp"
+},
+{
+  "directory": "/home/maxwell/workSpace/UoE/year4/UG4_project/simuGBS/build/src",
+  "command": "/usr/bin/g++   -g -fopenmp -std=gnu++11 -o CMakeFiles/simuGBS.dir/simuGBS.cpp.o -c /home/maxwell/workSpace/UoE/year4/UG4_project/simuGBS/src/simuGBS.cpp",
+  "file": "/home/maxwell/workSpace/UoE/year4/UG4_project/simuGBS/src/simuGBS.cpp"
+},
+{
+  "directory": "/home/maxwell/workSpace/UoE/year4/UG4_project/simuGBS/build/src",
+  "command": "/usr/bin/g++   -g -fopenmp -std=gnu++11 -o CMakeFiles/simuGBS.dir/utils/stringUtils.cpp.o -c /home/maxwell/workSpace/UoE/year4/UG4_project/simuGBS/src/utils/stringUtils.cpp",
+  "file": "/home/maxwell/workSpace/UoE/year4/UG4_project/simuGBS/src/utils/stringUtils.cpp"
+},
+{
+  "directory": "/home/maxwell/workSpace/UoE/year4/UG4_project/simuGBS/build/src",
+  "command": "/usr/bin/g++   -g -fopenmp -std=gnu++11 -o CMakeFiles/simuGBS.dir/utils/vectorUtils.cpp.o -c /home/maxwell/workSpace/UoE/year4/UG4_project/simuGBS/src/utils/vectorUtils.cpp",
+  "file": "/home/maxwell/workSpace/UoE/year4/UG4_project/simuGBS/src/utils/vectorUtils.cpp"
+}
+]
