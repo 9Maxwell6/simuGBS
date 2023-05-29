@@ -1,2 +1,0 @@
-/usr/bin/ar qc libsrc.a CMakeFiles/src.dir/DirectProb.cpp.o CMakeFiles/src.dir/FT_marginalProb.cpp.o CMakeFiles/src.dir/FT_probCalculator.cpp.o CMakeFiles/src.dir/covMatrix_reader.cpp.o CMakeFiles/src.dir/marginalProb.cpp.o CMakeFiles/src.dir/probCalculator.cpp.o CMakeFiles/src.dir/simuGBS.cpp.o CMakeFiles/src.dir/utils/stringUtils.cpp.o CMakeFiles/src.dir/utils/vectorUtils.cpp.o
-/usr/bin/ranlib libsrc.a

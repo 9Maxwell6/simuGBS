@@ -1,6 +1,0 @@
-/home/maxwell/workSpace/UoE/year4/UG4_project/simuGBS/build/CMakeFiles/edit_cache.dir
-/home/maxwell/workSpace/UoE/year4/UG4_project/simuGBS/build/CMakeFiles/rebuild_cache.dir
-/home/maxwell/workSpace/UoE/year4/UG4_project/simuGBS/build/src/CMakeFiles/src.dir
-/home/maxwell/workSpace/UoE/year4/UG4_project/simuGBS/build/src/CMakeFiles/simuGBS.dir
-/home/maxwell/workSpace/UoE/year4/UG4_project/simuGBS/build/src/CMakeFiles/edit_cache.dir
-/home/maxwell/workSpace/UoE/year4/UG4_project/simuGBS/build/src/CMakeFiles/rebuild_cache.dir
