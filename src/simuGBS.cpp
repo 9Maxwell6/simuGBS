@@ -142,6 +142,15 @@ int main (int argc, char *argv[]){
   ptf4h.execute(10000000);
   ptf4h.release();
   /*/
+  Eigen::MatrixXd cov = getCovMatrix(15);
+  ProbTree pt4(cov);
+  pt4.execute(1);
+  pt4.execute(1);
+  pt4.release();
+  ProbTreeFourier ptf4(cov,15);
+  ptf4.execute(10000000);
+  //ptf4.execute(1);
+  ptf4.release();
 
   
 
@@ -158,7 +167,7 @@ int main (int argc, char *argv[]){
   }
   //*/
 
-  //*
+  /*
   //string filename = "Fourier_order_dimension_time_experiment.dat";
   //std::ofstream txt;
   //txt.open(std::string("..") + SEPERATOR + "data" + SEPERATOR + filename, fstream::trunc);

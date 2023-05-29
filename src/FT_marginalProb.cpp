@@ -77,7 +77,7 @@ double ProbTreeFourier::execute(int n){
     this->time_cost = std::chrono::duration_cast<std::chrono::nanoseconds>(end - begin).count();
     //this->time_cost = std::chrono::duration_cast<std::chrono::microseconds>(end - begin).count();
     cout.precision(9);
-    //std::cout << "Time cost = " << this->time_cost* pow(10,-9) << "[s]" << std::endl;
+    std::cout << "Time cost = " << this->time_cost* pow(10,-9) << "[s]" << std::endl;
     //std::cout << "Time cost = " << this->time_cost* pow(10,-6) << "[s]" << std::endl;
     
     //txt.close();
